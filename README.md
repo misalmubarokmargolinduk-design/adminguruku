@@ -1,0 +1,2 @@
+# adminguruku
+Aplikasi administrasi guru
